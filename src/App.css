@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.form {
+  border: solid 1.5px;
+  border-radius: 20px;
+  margin: 20px;
+  width: 100%;
+  height: auto;
+}
+.form:hover {
+  border-radius: 23px;
+  box-shadow: gray 10px 10px 10px 0;
+}
